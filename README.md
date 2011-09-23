@@ -1,4 +1,4 @@
-**TinyShell is a tiny PHP shell.**
+**TinyShell is a tiny PHP shell. (0.1kb to be exact)**
 
 
 ## Installation
