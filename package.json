@@ -1,0 +1,22 @@
+{
+   "name":"test",
+   "description":"test",
+   "version":"0.0.1",
+   "homepage":"http://github.com/test",
+   "repository":"git://github.com/test.git",
+   "author":"test",
+   "main":"./run.js",
+   
+   "dependencies":{
+      "node-term":"*"
+   },
+   "engines":{
+      "node":">= 0.4.0"
+   },
+   "licenses":[
+      {
+         "type":"MIT",
+         "url":"http://github.com/test"
+      }
+   ]
+}
