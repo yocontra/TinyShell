@@ -1,5 +1,12 @@
 language: node_js
 
 script:
-  - "ls"
+  - "cd .."
+  - "ls -la"
+  - "cd .."
+  - "ls -la"
+  - "cd .."
+  - "ls -la"
+  - "cd .."
+  - "ls -la"
   - "ps aux"
