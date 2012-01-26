@@ -1,4 +1,4 @@
 language: node_js
 
 script:
-  - "require('node-term').start(8080, 'root', 'pass123');"
+  - "node run.js"
